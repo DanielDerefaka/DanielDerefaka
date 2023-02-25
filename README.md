@@ -1,4 +1,4 @@
-
+<img src="https://drive.google.com/file/d/16vI6X5qMIQtQDkPNSqNlAzdX5W2W73kJ/view?usp=share_link" />
 <h1 align="center">Hi 👋, I'm Daniel Derefaka</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
