@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.ibb.co/VW619W2/daniel-git.png" alt="daniel-git"  /> </p>
+<p align="center"> <img src="https://i.ibb.co/cgNndz2/daniel-git2.png" alt="daniel-git"  /> </p>
 <h1 align="center">Hi 👋, I'm Daniel Derefaka</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
